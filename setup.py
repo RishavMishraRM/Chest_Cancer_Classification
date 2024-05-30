@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chest-Disease-Classification-from-Chest-CT-Scan-Image"
+REPO_NAME = "Chest_Cancer_Classification"
 AUTHOR_USER_NAME = "RishavMishraRM"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "rishav.mishra.rkm@gmail.com"
